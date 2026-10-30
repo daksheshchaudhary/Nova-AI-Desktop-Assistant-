@@ -1,0 +1,12 @@
+.venv/
+venv/
+build/
+dist/
+.cache
+__pycache__/
+*.pyc
+.idea/
+.env
+.env.*
+!.env.example
+Nova/
